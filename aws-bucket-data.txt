@@ -1,0 +1,5 @@
+Bucket Name: e-commerce-strapi-games
+Politica de AWS: S3BucketAccessStrapiGamesEcommerce
+AWS User Name: strapi-game-ecommerce
+Clave de accesso: AKIAZL6E3XI6ZD65IR6I
+Clave de accesso secreta: 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
